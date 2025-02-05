@@ -1,0 +1,33 @@
+name,sku,price,stock
+Quinoa,GLF-QNO-001,5.99,150
+Brown Rice,GLF-BRI-002,4.49,200
+Rolled Oats,GLF-ROT-003,3.99,300
+Whole Wheat Flour,GLF-WWF-004,2.99,250
+Millet,GLF-MIL-005,4.99,100
+Barley,GLF-BAR-006,3.49,180
+Buckwheat,GLF-BUC-007,5.49,120
+Amaranth,GLF-AMA-008,6.99,90
+Lentils (Red),GLF-LEN-009,2.99,220
+Lentils (Green),GLF-LEN-010,2.99,220
+Lentils (Black),GLF-LEN-011,3.49,200
+Chickpeas,GLF-CHK-012,3.99,150
+Black Beans,GLF-BLB-013,2.49,180
+Kidney Beans,GLF-KID-014,2.99,170
+Mung Beans,GLF-MUN-015,3.99,130
+Soybeans,GLF-SOY-016,4.49,110
+Almonds,GLF-ALM-017,8.99,100
+Walnuts,GLF-WAL-018,7.99,120
+Cashews,GLF-CAS-019,9.99,90
+Chia Seeds,GLF-CHI-020,6.99,140
+Flaxseeds,GLF-FLX-021,5.49,160
+Pumpkin Seeds,GLF-PMP-022,4.99,130
+Cold-Pressed Olive Oil,GLF-OLV-023,10.99,80
+Coconut Oil,GLF-COC-024,9.49,100
+Sesame Oil,GLF-SES-025,8.99,90
+Apple Cider Vinegar,GLF-ACV-026,5.99,150
+Honey,GLF-HON-027,7.49,120
+Peanut Butter,GLF-PNB-028,6.99,110
+Granola Bars,GLF-GRN-029,3.99,200
+Trail Mix,GLF-TRL-030,4.99,180
+Popcorn,GLF-POP-031,2.99,250
+Dark Chocolate,GLF-DRK-032,4.49,170
