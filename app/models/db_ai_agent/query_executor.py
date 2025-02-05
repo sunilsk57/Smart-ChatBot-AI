@@ -3,8 +3,7 @@ import yaml
 
 
 class SqlQueryExecutor:
-    def __init__(self, db_manager, config=None):
-        self.db_manager = db_manager
+    def __init__(self, config=None):
         if config is None:
             with open("./app/config.yml", "r") as f:
                 self.config = yaml.safe_load(f)
