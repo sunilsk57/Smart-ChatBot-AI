@@ -1,10 +1,6 @@
 import streamlit as st
 import requests
-import sys
 
-sys.path.append(
-    r"C:\Users\Sunil Kumar\OneDrive\Documents\Sunil\Repository\Sarvam_Assignment\Smart-ChatBot-AI"
-)
 
 from app.database import DBHelper
 from app.schemas.request import UserRequest
